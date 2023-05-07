@@ -123,6 +123,6 @@ options.forEach(option => {
 ```
 ## Author
 <p align="left">
-<a href="https://github.com/tasmir" target="_blank"><img src="https://avatars.githubusercontent.com/u/25658870?s=40&v=4"><br>Tasmir Ahmed</a>
+<a href="https://github.com/tasmir" target="_blank" vartical-align="middle"><img src="https://avatars.githubusercontent.com/u/25658870?s=40&v=4">Tasmir Ahmed</a>
 </p>
 
